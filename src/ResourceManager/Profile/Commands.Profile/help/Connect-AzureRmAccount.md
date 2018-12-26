@@ -414,7 +414,7 @@ Accepted values: Process, CurrentUser
 
 Required: False
 Position: Named
-Default value: None
+Default value: CurrentUser
 Accept pipeline input: False
 Accept wildcard characters: False
 ```
